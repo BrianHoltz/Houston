@@ -1,7 +1,7 @@
 # Houston
 
 Houston is a Git-controlled Markdown administrative layer for orchestrating
-actionables across existing systems of record.
+tasks across existing systems of record.
 
 ## Solution
 
@@ -9,12 +9,12 @@ actionables across existing systems of record.
 
 * Principals own permissions. A principal is an identity / permission bundle.
 * Domains are areas of concern governed by one or more principals.
-* Actionable sources belong to domains and have access rules.
+* Task sources belong to domains and have access rules.
 * The source buckets below are organizational groupings, not domains; each
   source is assigned to one or more domains.
-* Primary work sources are the sources of truth for actual actionables.
+* Primary task sources are the sources of truth for actual tasks.
 * Human controls admin via markdown edits (e.g via voice interaction)
-* Admin controls human by operating on work sources
+* Admin controls human by operating on task sources
 * Admin has no state other than git-controlled markdown artifacts
 
 ### Domains
@@ -27,7 +27,7 @@ actionables across existing systems of record.
 
 ### Vocabulary
 
-* **Task:** a pending piece of work.
+* **Task:** a unit of work.
   * Alternates: actionable, pender, DoBit
 * **Task source:** a system of record for pending pieces of work
 
@@ -38,7 +38,7 @@ actionables across existing systems of record.
 * Goals
 * Projects
 
-## Pending Work Sources
+## Task Sources
 
 ### Professional
 
