@@ -1,6 +1,6 @@
 # Apple Notes Integration
 
-#### Apple Notes ✅ Full read/write confirmed
+## Apple Notes ✅ Full read/write confirmed
 
 **Capabilities:**
 

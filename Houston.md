@@ -5,10 +5,17 @@ tasks across existing systems of record.
 
 ## Solution
 
+### Vocabulary
+
+* **Task:** a unit of work.
+  * Alternates: actionable, pender, DoBit
+* **Task source:** a system of record for pending pieces of work
+* **Principal:** an identity / permission bundle that owns permissions.
+* **Domain:** an area of concern governed by one or more principals.
+
+
 ### Principles
 
-* Principals own permissions. A principal is an identity / permission bundle.
-* Domains are areas of concern governed by one or more principals.
 * Task sources belong to domains and have access rules.
 * The source buckets below are organizational groupings, not domains; each
   source is assigned to one or more domains.
@@ -25,12 +32,6 @@ tasks across existing systems of record.
 * Purissima
 * Libertarian
 
-### Vocabulary
-
-* **Task:** a unit of work.
-  * Alternates: actionable, pender, DoBit
-* **Task source:** a system of record for pending pieces of work
-
 ### Artifacts
 
 * Ledger/log/history: read-only except for reformatting
@@ -42,11 +43,9 @@ tasks across existing systems of record.
 
 ### Professional
 
-#### Apple Notes ✅ Full read/write confirmed
+#### Apple Notes
 
 See [Notes.md](Notes.md) for the integration details.
-
----
 
 #### Outlook Tasks (Microsoft To Do)
 
@@ -60,8 +59,6 @@ See [Notes.md](Notes.md) for the integration details.
 
 **Access method:** `msgraph` skill via MS Graph API — requires valid Microsoft 365 session.
 
----
-
 #### Outlook Calendar
 
 #### Outlook Email
@@ -73,8 +70,6 @@ See [Notes.md](Notes.md) for the integration details.
 #### Jira
 
 #### Task Lists in Current Project Docs
-
----
 
 ### Personal
 
@@ -97,8 +92,6 @@ See [Notes.md](Notes.md) for the integration details.
 #### YouTube Playlists
 
 #### Twitter Bookmarks
-
----
 
 ### Both (Work & Personal)
 
@@ -141,5 +134,3 @@ Preferred order:
 
 UI automation is allowed as a human-equivalent control surface, but not as
 unattended infrastructure.
-
-### Notable AI-Powered Personal Admin Solutions
