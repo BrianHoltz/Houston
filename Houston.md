@@ -45,19 +45,11 @@ tasks across existing systems of record.
 
 #### Apple Notes
 
-See [Notes.md](Notes.md) for the integration details.
+See [Notes.md](Notes.md) for integration details.
 
-#### Outlook Tasks (Microsoft To Do)
+#### Outlook Tasks
 
-**Capabilities:**
-
-- **Read:** list all task lists and every task (title, due date, status, notes)
-- **Read:** filter by status (not started, in progress, completed), due date, importance
-- **Edit:** create tasks with title, due date, body, reminder
-- **Edit:** mark complete, update due date, modify body
-- **Edit:** move between lists, delete tasks
-
-**Access method:** `msgraph` skill via MS Graph API — requires valid Microsoft 365 session.
+See [Notes.md](Notes.md) for integration details.
 
 #### Outlook Calendar
 

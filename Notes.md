@@ -1,6 +1,6 @@
 # Apple Notes Integration
 
-## Apple Notes ✅ Full read/write confirmed
+## Apple Notes
 
 **Capabilities:**
 
@@ -33,3 +33,15 @@
 - Encrypted notes (`ZISPASSWORDPROTECTED=1`): content is not readable
 - Notes stored only in iCloud (`ZNEEDSTOBEFETCHEDFROMCLOUD=1`): ZDATA may be empty until synced locally
 - Rich content (images, drawings, handwriting): present as attachment references, not modifiable via this method
+
+## Outlook Tasks
+
+**Capabilities:**
+
+- **Read:** list all task lists and every task (title, due date, status, notes)
+- **Read:** filter by status (not started, in progress, completed), due date, importance
+- **Edit:** create tasks with title, due date, body, reminder
+- **Edit:** mark complete, update due date, modify body
+- **Edit:** move between lists, delete tasks
+
+**Access method:** `msgraph` skill via MS Graph API — requires valid Microsoft 365 session.
