@@ -43,55 +43,40 @@ tasks across existing systems of record.
 
 ### Professional
 
-#### Apple Notes
-
-See [Notes.md](Notes.md) for integration details.
-
-#### Outlook Tasks
-
-See [Notes.md](Notes.md) for integration details.
-
-#### Outlook Calendar
-
-#### Outlook Email
-
-#### Slack: Later
-
-#### Pull Request Comments
-
-#### Jira
-
-#### Task Lists in Current Project Docs
+* Apple Notes
+  * See [Notes.md](Notes.md) for integration details.
+* Outlook Tasks
+  * See [Notes.md](Notes.md) for integration details.
+* Outlook Calendar
+* Outlook Email
+* Slack: Later
+* Pull Request Comments
+* Jira
+* Task Lists in Current Project Docs
 
 ### Personal
 
-#### Google Tasks
-
-#### Gmail
-
-#### Google Calendar
-
-#### Google Keep
-
-#### Google Chat
-
-#### SMS
-
-#### Discord
-
-#### LinkedIn Messages
-
-#### YouTube Playlists
-
-#### Twitter Bookmarks
+* Google Tasks
+* Gmail
+* Google Calendar
+* Google Keep
+* Google Chat
+* SMS
+* Discord
+* LinkedIn Messages
+* YouTube Playlists
+* Twitter Bookmarks
+* Habit tracker
+* Personal log
+* Family encyclopedia
+* Medical history
+* Gemini daily brief
 
 ### Both (Work & Personal)
 
-#### Browser Tabs
-
-#### Downloads Folder
-
-#### Desktop Files
+* Browser Tabs
+* Downloads Folder
+* Desktop Files
 
 ## Existing Solutions
 
